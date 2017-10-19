@@ -1,0 +1,14 @@
+{
+  "name": "mc",
+  "version": "1.0.0",
+  "description": "mocha test",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "chenluily",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^4.0.1"
+  }
+}
